@@ -1,0 +1,11 @@
+@charset "utf-8";
+h1 {
+	font-family: "微軟正黑體", "新細明體";
+	font-size: 24px;
+	line-height: 75px;
+	color: #FFF;
+	background-image: url(../images/B08.gif);
+	background-repeat: no-repeat;
+	margin-bottom: 5px;
+	padding-left: 115px;
+}
